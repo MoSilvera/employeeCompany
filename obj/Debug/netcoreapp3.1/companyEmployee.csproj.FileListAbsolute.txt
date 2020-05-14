@@ -1,0 +1,12 @@
+/Users/mo/workspace/csharp39/companyEmployee/companyEmployee/bin/Debug/netcoreapp3.1/companyEmployee.deps.json
+/Users/mo/workspace/csharp39/companyEmployee/companyEmployee/bin/Debug/netcoreapp3.1/companyEmployee.runtimeconfig.json
+/Users/mo/workspace/csharp39/companyEmployee/companyEmployee/bin/Debug/netcoreapp3.1/companyEmployee.runtimeconfig.dev.json
+/Users/mo/workspace/csharp39/companyEmployee/companyEmployee/bin/Debug/netcoreapp3.1/companyEmployee.dll
+/Users/mo/workspace/csharp39/companyEmployee/companyEmployee/bin/Debug/netcoreapp3.1/companyEmployee.pdb
+/Users/mo/workspace/csharp39/companyEmployee/companyEmployee/obj/Debug/netcoreapp3.1/companyEmployee.csprojAssemblyReference.cache
+/Users/mo/workspace/csharp39/companyEmployee/companyEmployee/obj/Debug/netcoreapp3.1/companyEmployee.csproj.CoreCompileInputs.cache
+/Users/mo/workspace/csharp39/companyEmployee/companyEmployee/obj/Debug/netcoreapp3.1/companyEmployee.AssemblyInfoInputs.cache
+/Users/mo/workspace/csharp39/companyEmployee/companyEmployee/obj/Debug/netcoreapp3.1/companyEmployee.AssemblyInfo.cs
+/Users/mo/workspace/csharp39/companyEmployee/companyEmployee/obj/Debug/netcoreapp3.1/companyEmployee.dll
+/Users/mo/workspace/csharp39/companyEmployee/companyEmployee/obj/Debug/netcoreapp3.1/companyEmployee.pdb
+/Users/mo/workspace/csharp39/companyEmployee/companyEmployee/obj/Debug/netcoreapp3.1/companyEmployee.genruntimeconfig.cache
